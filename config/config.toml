@@ -1,0 +1,8 @@
+[app]
+port = 8080
+
+[database]
+dburl = "root123:root123@tcp(localhost:3306)/dbcity?parseTime=true"
+
+[RajaOngkir]
+api_key = "657563cab514030a10f67c5a25851342"
